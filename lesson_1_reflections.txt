@@ -19,3 +19,7 @@ git diff shows differences between the two commits based on their IDs. - means r
 5. How might using version control make you more confident to make changes that could break something?
 
 Knowing that I can always go back to the previous version gives me more freedom to experiment. :-)
+
+6. Now that you have your workspace set up, what do you want to try using Git for?
+
+Working on my Android applications.
