@@ -14,3 +14,7 @@ It will help me to see which files I have modified and thus how I should organiz
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When I have great changes in mind that I want to implement on my code. Branches will help me put each change in a logical division so I can know what changes I have made.
+
+5. How do the diagrams help you visualize the branch structure?
+
+They help me to see the commits as a tree not an abstract thing.
