@@ -23,3 +23,8 @@ They help me to see the commits as a tree not an abstract thing.
 
 One is able to make the changes of a branch merge with the master.
 We represented it in that way in the diagram because the basic unit of work of git is a commit so the merge was just a commit.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros are that Git does the heavy lifting for me.
+The cons are that Git is not learned enough to solve conflicts and so will inform me of any such conflict.
