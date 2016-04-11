@@ -18,3 +18,8 @@ When I have great changes in mind that I want to implement on my code. Branches 
 5. How do the diagrams help you visualize the branch structure?
 
 They help me to see the commits as a tree not an abstract thing.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+One is able to make the changes of a branch merge with the master.
+We represented it in that way in the diagram because the basic unit of work of git is a commit so the merge was just a commit.
