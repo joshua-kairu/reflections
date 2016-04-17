@@ -7,3 +7,13 @@ When I am on another computer. Or, when I do not have sufficient privileges on m
 I might get mistakes in GitHub transferred to my local repository and vice versa.
 Pulling overwrites all local commits that have not been pushed. 
 Staying up-to-date with my remote might take up bandwidth.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork - Clone a repository on GitHub.
+Clone - Clone a repository locally or from GitHub to local.
+Branch - Create a new branch locally.
+
+Fork to copy a repository I don't have permission to change.
+Clone to make a copy of a repository.
+Branch to try out something different in code.
