@@ -2,3 +2,8 @@
 
 When I am on another computer. Or, when I do not have sufficient privileges on my current computer.
 
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+I might get mistakes in GitHub transferred to my local repository and vice versa.
+Pulling overwrites all local commits that have not been pushed. 
+Staying up-to-date with my remote might take up bandwidth.
